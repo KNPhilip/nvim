@@ -1,3 +1,2 @@
 require('knphilip.remap')
-require('knphilip.init-lazy')
-
+require('knphilip.lazy')
